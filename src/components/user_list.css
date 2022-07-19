@@ -1,0 +1,11 @@
+.th_row {
+	background-color: aliceblue;
+}
+
+tr{
+	cursor: pointer;
+}
+
+.tbl-row:nth-child(odd) {
+	background-color: #98FB98;
+}
